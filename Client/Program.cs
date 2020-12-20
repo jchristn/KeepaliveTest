@@ -10,7 +10,7 @@ namespace Client
 {
     class Program
     {
-        static bool _UseKeepalives = true;
+        static bool _UseKeepalives = false;
         static TcpClient _Client = null;
         static NetworkStream _NetworkStream = null;
         static CancellationTokenSource _TokenSource = new CancellationTokenSource();
@@ -24,7 +24,11 @@ namespace Client
             _Client = new TcpClient();
             _Token = _TokenSource.Token;
 
-            if (_UseKeepalives) SetTcpKeepalives();
+            if (_UseKeepalives)
+            {
+                Console.WriteLine("Enabling TCP keepalives");
+                SetTcpKeepalives();
+            }
 
             IAsyncResult ar = _Client.BeginConnect("127.0.0.1", 9000, null, null);
             WaitHandle wh = ar.AsyncWaitHandle;

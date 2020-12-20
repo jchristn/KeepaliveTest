@@ -11,7 +11,7 @@ namespace Server
 {
     class Program
     {
-        static bool _UseKeepalives = true;
+        static bool _UseKeepalives = false;
         static TcpListener _Listener = null;
         static CancellationTokenSource _TokenSource = new CancellationTokenSource();
         static CancellationToken _Token;
@@ -22,7 +22,13 @@ namespace Server
                 _UseKeepalives = args.Any(a => a.Equals("--keepalive"));
 
             _Listener = new TcpListener(IPAddress.Loopback, 9000);
-            if (_UseKeepalives) SetTcpKeepalives();
+
+            if (_UseKeepalives)
+            {
+                Console.WriteLine("Enabling TCP keepalives");
+                SetTcpKeepalives();
+            }
+
             _Listener.Start();
             _Token = _TokenSource.Token;
 
