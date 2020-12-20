@@ -28,6 +28,10 @@ namespace Server
                 Console.WriteLine("Enabling TCP keepalives");
                 SetTcpKeepalives();
             }
+            else
+            {
+                Console.WriteLine("TCP keepalives disabled");
+            }
 
             _Listener.Start();
             _Token = _TokenSource.Token;

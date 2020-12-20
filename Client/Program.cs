@@ -29,6 +29,10 @@ namespace Client
                 Console.WriteLine("Enabling TCP keepalives");
                 SetTcpKeepalives();
             }
+            else
+            {
+                Console.WriteLine("TCP keepalives disabled");
+            }
 
             IAsyncResult ar = _Client.BeginConnect("127.0.0.1", 9000, null, null);
             WaitHandle wh = ar.AsyncWaitHandle;
