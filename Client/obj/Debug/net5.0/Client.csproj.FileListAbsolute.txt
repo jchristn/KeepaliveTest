@@ -1,0 +1,16 @@
+C:\Code\Misc\KeepaliveTest\Client\obj\Debug\net5.0\Client.csprojAssemblyReference.cache
+C:\Code\Misc\KeepaliveTest\Client\obj\Debug\net5.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Misc\KeepaliveTest\Client\obj\Debug\net5.0\Client.AssemblyInfoInputs.cache
+C:\Code\Misc\KeepaliveTest\Client\obj\Debug\net5.0\Client.AssemblyInfo.cs
+C:\Code\Misc\KeepaliveTest\Client\obj\Debug\net5.0\Client.csproj.CoreCompileInputs.cache
+C:\Code\Misc\KeepaliveTest\Client\bin\Debug\net5.0\Client.exe
+C:\Code\Misc\KeepaliveTest\Client\bin\Debug\net5.0\Client.deps.json
+C:\Code\Misc\KeepaliveTest\Client\bin\Debug\net5.0\Client.runtimeconfig.json
+C:\Code\Misc\KeepaliveTest\Client\bin\Debug\net5.0\Client.runtimeconfig.dev.json
+C:\Code\Misc\KeepaliveTest\Client\bin\Debug\net5.0\Client.dll
+C:\Code\Misc\KeepaliveTest\Client\bin\Debug\net5.0\ref\Client.dll
+C:\Code\Misc\KeepaliveTest\Client\bin\Debug\net5.0\Client.pdb
+C:\Code\Misc\KeepaliveTest\Client\obj\Debug\net5.0\Client.dll
+C:\Code\Misc\KeepaliveTest\Client\obj\Debug\net5.0\ref\Client.dll
+C:\Code\Misc\KeepaliveTest\Client\obj\Debug\net5.0\Client.pdb
+C:\Code\Misc\KeepaliveTest\Client\obj\Debug\net5.0\Client.genruntimeconfig.cache

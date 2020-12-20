@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepaliveTest", "KeepaliveTest\KeepaliveTest.csproj", "{064A1C6A-2070-4F5B-A8AD-2F1746A1DB55}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{679EF082-053B-4C4F-97E7-D71702F6615A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{175ED9F4-C2E2-4444-974F-AB6CAC0F14F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{064A1C6A-2070-4F5B-A8AD-2F1746A1DB55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{064A1C6A-2070-4F5B-A8AD-2F1746A1DB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{064A1C6A-2070-4F5B-A8AD-2F1746A1DB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{064A1C6A-2070-4F5B-A8AD-2F1746A1DB55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{679EF082-053B-4C4F-97E7-D71702F6615A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679EF082-053B-4C4F-97E7-D71702F6615A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679EF082-053B-4C4F-97E7-D71702F6615A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679EF082-053B-4C4F-97E7-D71702F6615A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{175ED9F4-C2E2-4444-974F-AB6CAC0F14F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175ED9F4-C2E2-4444-974F-AB6CAC0F14F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175ED9F4-C2E2-4444-974F-AB6CAC0F14F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175ED9F4-C2E2-4444-974F-AB6CAC0F14F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

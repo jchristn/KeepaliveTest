@@ -1,0 +1,13 @@
+c:\code\misc\KeepaliveTest\Server\bin\Debug\netcoreapp3.1\Server.exe
+c:\code\misc\KeepaliveTest\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+c:\code\misc\KeepaliveTest\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+c:\code\misc\KeepaliveTest\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+c:\code\misc\KeepaliveTest\Server\bin\Debug\netcoreapp3.1\Server.dll
+c:\code\misc\KeepaliveTest\Server\bin\Debug\netcoreapp3.1\Server.pdb
+c:\code\misc\KeepaliveTest\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+c:\code\misc\KeepaliveTest\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+c:\code\misc\KeepaliveTest\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+c:\code\misc\KeepaliveTest\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+c:\code\misc\KeepaliveTest\Server\obj\Debug\netcoreapp3.1\Server.dll
+c:\code\misc\KeepaliveTest\Server\obj\Debug\netcoreapp3.1\Server.pdb
+c:\code\misc\KeepaliveTest\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache

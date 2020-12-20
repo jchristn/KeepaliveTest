@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "do88y8CWd4Arbs7U3Iypyu+FWM0IPoid7Ho4yWtY/pQQoZmXHVSfuwrq5Mn7L24iIPRnQMW6YvtUiy1o/qGj1w==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\Misc\\KeepaliveTest\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joelc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\joelc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

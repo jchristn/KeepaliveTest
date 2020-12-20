@@ -1,0 +1,9 @@
+C:\Code\Misc\KeepaliveTest\Client\obj\Debug\net461\Client.csprojAssemblyReference.cache
+C:\Code\Misc\KeepaliveTest\Client\obj\Debug\net461\Client.AssemblyInfoInputs.cache
+C:\Code\Misc\KeepaliveTest\Client\obj\Debug\net461\Client.AssemblyInfo.cs
+C:\Code\Misc\KeepaliveTest\Client\obj\Debug\net461\Client.csproj.CoreCompileInputs.cache
+C:\Code\Misc\KeepaliveTest\Client\bin\Debug\net461\Client.exe.config
+C:\Code\Misc\KeepaliveTest\Client\bin\Debug\net461\Client.exe
+C:\Code\Misc\KeepaliveTest\Client\bin\Debug\net461\Client.pdb
+C:\Code\Misc\KeepaliveTest\Client\obj\Debug\net461\Client.exe
+C:\Code\Misc\KeepaliveTest\Client\obj\Debug\net461\Client.pdb
